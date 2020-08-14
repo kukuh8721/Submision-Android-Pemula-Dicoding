@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Submision</string>
+    <string name="hardware_name">Nama Hardware</string>
+    <string name="detail">Detail</string>
+</resources>
